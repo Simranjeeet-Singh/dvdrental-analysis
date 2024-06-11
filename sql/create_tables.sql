@@ -1,0 +1,1 @@
+-- Create tables (already done during restoration)
