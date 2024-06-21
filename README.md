@@ -1,6 +1,6 @@
 # DVD Rental Analysis
 
-This project performs an analysis of a DVD rental database using SQL and presents the results through visual dashboards. 
+This project performs an analysis of a DVD rental database using SQL and presents the results through visual tableau dashboards. 
 
 ## Project Structure
 
