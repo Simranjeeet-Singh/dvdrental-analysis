@@ -9,7 +9,6 @@ This project performs an analysis of a DVD rental database using SQL and present
 - **sql/**: Includes SQL scripts used for data extraction and analysis.
 - **ER diagram.png**: Entity-Relationship diagram of the database.
 
-- 
 ## Business Questions Answered
 
 The analysis and dashboards address the following business questions:
@@ -27,9 +26,9 @@ The analysis and dashboards address the following business questions:
 ## Tableau Dashboard
 It is user interactive dashboard where user can view the results globally or country wise just by using the world map as filter clicking on teh country to fetch country specific results.
 The dashboard visualises:
--Total Revenue
--Total Rentals
--Movies on Rent
--Actor Wise revenue
--Genre wise revenue
+- **Total Revenue
+- **Total Rentals
+- **Movies on Rent
+- **Actor Wise revenue
+- **Genre wise revenue
 
