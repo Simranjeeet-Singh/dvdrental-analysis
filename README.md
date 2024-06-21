@@ -11,6 +11,7 @@ The DVD rental database was connected to a PostgreSQL server and managed using p
 - **dashboards/**: Contains Tableau dashboards of the analysis.
 - **results/**: Stores output data from SQL queries.
 - **sql/**: Includes SQL scripts for data extraction and analysis.
+- **images/**: Contains snapshots of the Tableau dashboards and ER diagram.
 - **ER diagram.png**: Entity-Relationship diagram of the database.
 
 ## Business Questions Answered
@@ -31,10 +32,16 @@ The interactive dashboard allows users to view results globally or country-wise 
 - Actor-wise Revenue
 - Genre-wise Revenue
 
+![Tableau Dashboard](dashboards/tableau_dashboard.png)
+
 ## Usage
 
 - **SQL Scripts**: Use the scripts in the `sql` folder to query the DVD rental database.
 - **Dashboards**: Open the files in the `dashboards` folder to view the analysis results visually.
+
+## ER Diagram
+
+![ER Diagram](ER_diagram.png)
 
 ## Contributing
 
